@@ -5,7 +5,7 @@
 
 ## ビルド手順
 
-　このソフトウェアのソースは、debianのリポジトリ`http://ftp.debian.org/debian/pool/main/o/oneko/oneko_1.2.sakura.6.orig.tar.gz`から取得されたものであり、それらのミラーですが。しかしながら、このソースはLinuxにおいて不必要な（あるいはふさわしくない）項目が削除されており、改変無しではバイナリが生成できないものとなっています。これは、削除された項目の為の改変無しで`oneko`バイナリを生成できるようにしたものです。
+　このソフトウェアのソースは、debianのリポジトリ`http://ftp.debian.org/debian/pool/main/o/oneko/oneko_1.2.sakura.6.orig.tar.gz`から取得されたものであり、それらのミラーです。しかしながら、このソースはLinuxにおいて不必要な（あるいはふさわしくない）項目が削除されており、改変無しではバイナリが生成できないものとなっています。これは、削除された項目の為の改変無しで`oneko`バイナリを生成できるようにしたものです。
 
  - ビルドに必要なライブラリ郡の取得
 
@@ -30,6 +30,9 @@
   - Eric Anderson氏
   - Toshihiro Kanda氏
   - Kiichiroh Mukose氏
+
+* オリジナルのoneko-sakuraは、以下より入手することができます。
+[1]: http://www.daidouji.com/oneko/
 
 ## ライセンス
 
