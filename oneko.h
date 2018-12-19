@@ -36,7 +36,6 @@
 #include "bitmaps/neko/neko.include"
 #include "bitmaps/tora/tora.include"
 #include "bitmaps/dog/dog.include"
-#include "bitmaps/bsd/bsd.include"
 #include "bitmaps/sakura/sakura.include"
 #include "bitmaps/tomoyo/tomoyo.include"
 
@@ -44,7 +43,6 @@
 
 #include "bitmasks/neko/neko.mask.include"
 #include "bitmasks/dog/dog.mask.include"
-#include "bitmasks/bsd/bsd.mask.include"
 #include "bitmasks/sakura/sakura.mask.include"
 #include "bitmasks/tomoyo/tomoyo.mask.include"
 
